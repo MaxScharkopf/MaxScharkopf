@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at CSU Channel Islands and I'm<br>a 3rd year Computer Science major<br><br>Currently looking for a 2025 summer internship related to <br>software development, AI training, and embedded systems 
+I'm currently studying at CSU Channel Islands and I'm<br>a 3rd year Computer Science major<br><br>Currently looking for a 2026 summer internship related to <br>software development, AI training, and embedded systems 
 
 
 ## 🌐 Socials:
