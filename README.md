@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at CSU Channel Islands<br>as a rising senior pursuing a Computer Science BS Degree<br><br>Currently looking for a 2026 summer internship related to <br>Software Development, Computer Vision or other Machine Learning opportunites!
+I'm currently studying at CSU Channel Islands, <br>and am a rising senior pursuing a Computer Science BS Degree<br><br>Currently looking for a 2026 summer internship related to <br>Software Development, Computer Vision or other Machine Learning opportunites!
 
 
 ## 🌐 Socials:
